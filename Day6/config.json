@@ -1,0 +1,9 @@
+{
+  "csv_file_path": "./Sales.csv",
+  "columns": {
+      "date": "Sales_Date",
+      "region": "Region",
+      "sales": "Sales_Numbers"
+  }
+}
+
