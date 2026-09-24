@@ -1,0 +1,13 @@
+{
+  "csv_sales_file": "./data_files/sales_data.csv",
+  "csv_targets_file": "./data_files/targets.csv",
+  "sales_columns": {
+    "date": "date",
+    "region": "region",
+    "sales_amount": "sales"
+  },
+  "targets_columns": {
+    "region": "region",
+    "target": "monthly_target"
+  }
+}
